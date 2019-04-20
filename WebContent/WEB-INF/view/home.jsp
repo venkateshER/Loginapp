@@ -10,9 +10,9 @@
 <h3 align="center">${headerMessage}</h3>
 <table align="center">
             <tr>
-                <td><a href="/LoginAppl/login">Login</a>
+                <td><a href="/LoginAppl/login">LOGIN</a>
                 </td>
-                <td><a href="/LoginAppl/register">Register</a>
+                <td><a href="/LoginAppl/register">REGISTER</a>
                 </td>
             </tr>
         </table>
